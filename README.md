@@ -56,13 +56,4 @@ plt.imshow(X_train[2], cmap='gray')
 plt.show()
 ```
 
-## Future Enhancements
-
-- Improve accuracy with deeper networks (CNNs instead of ANN).
-- Use **data augmentation** to enhance generalization.
-- Experiment with different optimizers and activation functions.
-
-## License
-
-This project is open-source and available for educational purposes.
 
